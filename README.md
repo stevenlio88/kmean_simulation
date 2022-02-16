@@ -8,7 +8,7 @@ Overview
 This tool is to simulate k-means algorithm with random generated data. The tool is build using Dash in Python.
 scikit-leanr's k-Means algorithm is used in the simulation.
 
-Try out the demo app [here](https://k-means-simulation.herokuapp.com/).
+Try out the demo app [here](https://dsci532-2022-ia1-k-means.herokuapp.com/).
 
 Manual
 ------
