@@ -50,7 +50,7 @@ app.layout = html.Div([
                 value=3),
         
             #html.Br(),
-            html.Label("Number of k-Mean"),
+            html.Label("Number of k-Means"),
             dcc.Slider(
                 id='k2-widget',
                 min=1,

@@ -22,11 +22,11 @@ Manual
 **Number of True Classes**: 
 -	Control the number of classes to be simulated
 
-**Number of k-Mean**:
+**Number of k-Means**:
 -	k clusters to be used in the k-Mean algorithm
 
-**Sample Mode**:
--	To generate a random or static sample
+**Random Seed**:
+-	Seed for random sample generation
 
 User can switch between **Original** or **Predictions** to compare the original and predicted classes.
 
